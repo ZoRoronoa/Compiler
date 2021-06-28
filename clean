@@ -1,0 +1,1 @@
+rm bison.output bison.tab.c flex.c forest
